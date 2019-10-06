@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"checkJs": true,
+		"lib": ["esnext"],
+		"target": "es2018"
+	}
+}

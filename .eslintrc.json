@@ -1,0 +1,15 @@
+{
+	"env": {
+		"node": true,
+		"mocha": true
+	},
+	"extends": ["eslint:recommended"],
+	"globals": {
+		"Atomics": "readonly",
+		"SharedArrayBuffer": "readonly"
+	},
+	"parserOptions": {
+		"ecmaVersion": 2020
+	},
+	"parser": "babel-eslint"
+}
