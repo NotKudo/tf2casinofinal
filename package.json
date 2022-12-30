@@ -45,7 +45,7 @@
 		"chai-as-promised": "^7.1.1",
 		"eslint": "^6.3.0",
 		"lodash": "^4.17.15",
-		"mocha": "^6.2.0",
+		"mocha": "^10.2.0",
 		"nock": "^11.3.5",
 		"nodemon": "^1.19.2",
 		"pino-pretty": "^3.2.1",
